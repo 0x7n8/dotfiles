@@ -1,0 +1,6 @@
+#!/bin/sh
+
+id=$(xsetwacom --list devices | grep "stylus" | grep -oP '(?<=id: )[0-9]+')
+
+# xsetwacom --set $id MapToOutput "eDP1"
+xsetwacom --set $id MapToOutput "HDMI2"

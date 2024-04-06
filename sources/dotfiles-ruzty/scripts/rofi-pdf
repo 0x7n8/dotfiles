@@ -1,0 +1,20 @@
+#!/bin/sh
+
+# i am so dumb, i have been applying gtk_theme to a qt application 🤦
+# fixed by using --platform option
+# THEME="env QT_STYLE_OVERRIDE=Adwaita-Dark"
+
+OPENER="zathura"
+
+if [[ ! -z "$1" ]]; then
+    OPENER=$1
+fi
+
+
+CHOSEN=$(rg --files -t pdf | rofi -dmenu -i -p "open pdf")
+
+if [ $OPENER != "zathura" ]; then
+    FLAGS="--platformtheme qt5ct"
+fi
+
+[ -z "$CHOSEN" ] && notify-send "rofi-pdf" "no file selected" || $THEME $OPENER "$CHOSEN" $FLAGS

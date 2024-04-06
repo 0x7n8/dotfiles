@@ -1,0 +1,2526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///opt/dwm-distrotube/config.h" added="2024-03-19T07:46:58.954525Z" modified="2024-03-19T07:54:08.972893Z" visited="2024-03-19T07:46:58.954526Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 101:81;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-19T07:54:08.972892Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Desktop" added="2024-03-19T08:46:58.177275Z" modified="2024-03-21T06:33:02.434514Z" visited="2024-03-19T08:46:58.177277Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T06:33:02.434508Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8" added="2024-03-19T08:46:58.775657Z" modified="2024-04-06T09:45:04.806754Z" visited="2024-03-19T08:46:58.775659Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-06T09:45:04.806752Z" count="48"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-20T07:58:08.538352Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources" added="2024-03-19T08:47:14.370802Z" modified="2024-04-06T09:47:17.203270Z" visited="2024-03-19T08:47:14.370803Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-06T09:47:17.203269Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles" added="2024-03-19T08:47:15.958759Z" modified="2024-03-19T13:35:02.289360Z" visited="2024-03-19T08:47:15.958762Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T13:35:02.289356Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles/xinitrc" added="2024-03-19T08:47:26.735076Z" modified="2024-03-19T10:11:08.784215Z" visited="2024-03-19T08:47:26.735077Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 11:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-19T10:11:08.784211Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.xinitrc" added="2024-03-19T08:47:56.510848Z" modified="2024-03-29T17:51:38.372892Z" visited="2024-03-19T08:47:56.510849Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 52:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-29T17:51:38.372890Z" count="8"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T17:51:15.459154Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles/.config" added="2024-03-19T08:51:59.455152Z" modified="2024-03-19T13:35:34.122680Z" visited="2024-03-19T08:51:59.455154Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T13:35:34.122675Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles/.config/starship.toml" added="2024-03-19T08:52:06.854333Z" modified="2024-03-19T08:52:14.380067Z" visited="2024-03-19T08:52:06.854334Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 17:12;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-19T08:52:14.380063Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config" added="2024-03-19T08:52:21.232098Z" modified="2024-03-31T17:30:09.975886Z" visited="2024-03-19T08:52:21.232100Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-31T17:30:09.975880Z" count="22"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles/.git" added="2024-03-19T08:52:45.192143Z" modified="2024-03-19T08:52:45.192154Z" visited="2024-03-19T08:52:45.192145Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-19T08:52:45.192148Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles/.local" added="2024-03-19T08:52:47.975900Z" modified="2024-03-19T13:35:07.514162Z" visited="2024-03-19T08:52:47.975902Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T13:35:07.514158Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles/wallpapers" added="2024-03-19T08:52:56.239697Z" modified="2024-03-19T08:52:56.239710Z" visited="2024-03-19T08:52:56.239699Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-19T08:52:56.239703Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/nitrogen" added="2024-03-19T08:53:32.463098Z" modified="2024-03-19T08:53:32.463109Z" visited="2024-03-19T08:53:32.463100Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-19T08:53:32.463103Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local" added="2024-03-19T08:53:44.871667Z" modified="2024-04-06T09:47:50.589213Z" visited="2024-03-19T08:53:44.871669Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-06T09:47:50.589210Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local/share" added="2024-03-19T08:53:45.934726Z" modified="2024-04-06T09:47:59.011883Z" visited="2024-03-19T08:53:45.934727Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-06T09:47:59.011881Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local/bin" added="2024-03-19T08:53:56.933422Z" modified="2024-04-06T09:47:52.500338Z" visited="2024-03-19T08:53:56.933423Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-06T09:47:52.500336Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/vim" added="2024-03-19T08:54:17.751538Z" modified="2024-03-29T22:16:39.195170Z" visited="2024-03-19T08:54:17.751540Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T22:16:39.195168Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.zshrc" added="2024-03-19T08:54:49.649397Z" modified="2024-03-19T08:55:00.830900Z" visited="2024-03-19T08:54:49.649398Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-19T08:55:00.830896Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles/.Xresources" added="2024-03-19T08:55:10.079016Z" modified="2024-03-19T08:55:22.164326Z" visited="2024-03-19T08:55:10.079017Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 19:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-19T08:55:22.164322Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles/package.txt" added="2024-03-19T08:55:35.306160Z" modified="2024-03-19T08:56:11.138292Z" visited="2024-03-19T08:55:35.306161Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 53:14;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-19T08:56:11.138287Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles/90-touchpad.conf" added="2024-03-19T08:56:20.881661Z" modified="2024-03-19T08:56:23.661404Z" visited="2024-03-19T08:56:20.881662Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-19T08:56:23.661399Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles/README.md" added="2024-03-19T08:56:44.133775Z" modified="2024-03-19T09:01:57.438853Z" visited="2024-03-19T08:56:44.133776Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 156:3;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-19T09:01:57.438848Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles/.config/dwm" added="2024-03-19T08:57:24.176084Z" modified="2024-03-19T08:57:24.176100Z" visited="2024-03-19T08:57:24.176086Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-19T08:57:24.176091Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/dwm" added="2024-03-19T08:59:21.080630Z" modified="2024-03-29T17:50:15.841132Z" visited="2024-03-19T08:59:21.080632Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T17:50:15.841130Z" count="9"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-21T01:59:48.585044Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/dwm/config.def.h" added="2024-03-19T08:59:36.028225Z" modified="2024-03-19T09:00:15.543799Z" visited="2024-03-19T08:59:36.028226Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-19T08:59:36.028227Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-19T09:00:15.543794Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles/.config/qtile" added="2024-03-19T09:02:08.352555Z" modified="2024-03-19T09:02:08.352567Z" visited="2024-03-19T09:02:08.352557Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-19T09:02:08.352561Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles/.config/qtile/icons" added="2024-03-19T09:02:10.456192Z" modified="2024-03-19T09:02:10.456196Z" visited="2024-03-19T09:02:10.456193Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-19T09:02:10.456194Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles/.config/qtile/config.py" added="2024-03-19T09:02:21.031146Z" modified="2024-03-19T09:02:24.626648Z" visited="2024-03-19T09:02:21.031147Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-19T09:02:24.626644Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/dwm/dwmblocks" added="2024-03-19T09:38:00.407158Z" modified="2024-03-19T15:08:51.805452Z" visited="2024-03-19T09:38:00.407160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T15:08:51.805447Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local/bin/volume" added="2024-03-19T09:58:57.111547Z" modified="2024-03-19T09:59:03.951786Z" visited="2024-03-19T09:58:57.111548Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-19T09:59:03.951782Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local/bin/upt" added="2024-03-19T09:59:09.217866Z" modified="2024-03-19T09:59:15.703550Z" visited="2024-03-19T09:59:09.217867Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-19T09:59:15.703545Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local/bin/kernel" added="2024-03-19T09:59:50.742761Z" modified="2024-03-19T09:59:58.328161Z" visited="2024-03-19T09:59:50.742762Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-19T09:59:58.328157Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local/bin/pacupdate" added="2024-03-19T10:00:07.800716Z" modified="2024-03-19T10:00:10.303557Z" visited="2024-03-19T10:00:07.800716Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-19T10:00:10.303553Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Pictures" added="2024-03-19T10:48:56.562508Z" modified="2024-03-23T02:12:25.142722Z" visited="2024-03-19T10:48:56.562511Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2024-03-19T10:48:56.562516Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T02:12:25.142721Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/dwm/patches" added="2024-03-19T12:44:01.371967Z" modified="2024-03-19T13:36:35.480637Z" visited="2024-03-19T12:44:01.371969Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T13:36:35.480634Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/dwm/archive" added="2024-03-19T13:34:20.642000Z" modified="2024-03-19T13:34:20.642012Z" visited="2024-03-19T13:34:20.642002Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T13:34:20.642006Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.Xresources" added="2024-03-19T13:34:36.114612Z" modified="2024-03-19T13:34:45.074549Z" visited="2024-03-19T13:34:36.114614Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T13:34:36.114621Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-19T13:34:45.074544Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles/.local/bin" added="2024-03-19T13:35:09.122532Z" modified="2024-03-19T13:35:09.122547Z" visited="2024-03-19T13:35:09.122534Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T13:35:09.122539Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/Mousepad" added="2024-03-19T13:35:44.226358Z" modified="2024-03-19T13:35:44.226369Z" visited="2024-03-19T13:35:44.226360Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T13:35:44.226363Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/qtile" added="2024-03-19T13:35:51.475084Z" modified="2024-03-19T13:35:51.475096Z" visited="2024-03-19T13:35:51.475086Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T13:35:51.475090Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/pulse" added="2024-03-19T13:36:00.042519Z" modified="2024-03-19T13:36:00.042531Z" visited="2024-03-19T13:36:00.042521Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T13:36:00.042525Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/xfce4" added="2024-03-19T13:36:16.434318Z" modified="2024-03-20T10:03:04.718585Z" visited="2024-03-19T13:36:16.434319Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-20T10:03:04.718580Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/dconf" added="2024-03-19T13:36:21.986701Z" modified="2024-03-19T13:36:21.986714Z" visited="2024-03-19T13:36:21.986703Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T13:36:21.986707Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/rofi" added="2024-03-19T13:36:26.066394Z" modified="2024-03-19T13:36:26.066406Z" visited="2024-03-19T13:36:26.066396Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T13:36:26.066399Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles/.config/dwm/config.def.h" added="2024-03-19T13:44:42.556311Z" modified="2024-03-19T13:57:52.578662Z" visited="2024-03-19T13:44:42.556312Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 101:83;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-19T13:57:52.578657Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/dwm/dwm" added="2024-03-19T14:27:45.830121Z" modified="2024-03-29T17:50:18.985162Z" visited="2024-03-19T14:27:45.830124Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T17:50:18.985160Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/dwm/dwm/patch" added="2024-03-19T14:27:47.349415Z" modified="2024-03-19T14:27:47.349428Z" visited="2024-03-19T14:27:47.349417Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T14:27:47.349421Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/dwm/dwm/patches" added="2024-03-19T14:30:16.422116Z" modified="2024-03-19T14:30:16.422133Z" visited="2024-03-19T14:30:16.422118Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T14:30:16.422124Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/dwm/dwm/config.def.h.rej" added="2024-03-19T14:32:37.277833Z" modified="2024-03-20T15:33:43.912163Z" visited="2024-03-19T14:32:37.277835Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 21:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T14:32:37.277839Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-20T15:33:43.912159Z" count="24"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles-dt" added="2024-03-19T15:05:48.117205Z" modified="2024-03-19T15:05:48.117221Z" visited="2024-03-19T15:05:48.117208Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T15:05:48.117213Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles-dt/.local" added="2024-03-19T15:05:52.164103Z" modified="2024-03-19T15:05:52.164113Z" visited="2024-03-19T15:05:52.164105Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T15:05:52.164108Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles-dt/.config" added="2024-03-19T15:06:09.190452Z" modified="2024-03-19T15:07:04.229816Z" visited="2024-03-19T15:06:09.190454Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T15:07:04.229811Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles-dt/.fvwm" added="2024-03-19T15:07:01.845142Z" modified="2024-03-19T15:07:01.845152Z" visited="2024-03-19T15:07:01.845143Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-19T15:07:01.845147Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads" added="2024-03-19T15:08:32.826162Z" modified="2024-03-31T16:47:46.225310Z" visited="2024-03-19T15:08:32.826164Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-31T16:47:46.225304Z" count="31"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/i3.webp" added="2024-03-20T00:49:00.489498Z" modified="2024-03-20T00:49:16.055491Z" visited="2024-03-20T00:49:00.489499Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="microsoft-edge" exec="&apos;microsoft-edge %u&apos;" modified="2024-03-20T00:49:16.055487Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/i3.jpg" added="2024-03-20T00:49:43.474557Z" modified="2024-03-20T00:49:43.474563Z" visited="2024-03-20T00:49:43.474558Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="microsoft-edge" exec="&apos;microsoft-edge %u&apos;" modified="2024-03-20T00:49:43.474560Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/back1.avif" added="2024-03-20T00:56:41.519179Z" modified="2024-03-20T00:57:00.335750Z" visited="2024-03-20T00:56:41.519181Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/avif"/>
+        <bookmark:applications>
+          <bookmark:application name="microsoft-edge" exec="&apos;microsoft-edge %u&apos;" modified="2024-03-20T00:57:00.335745Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/Suckless-msjche" added="2024-03-20T04:11:24.685803Z" modified="2024-03-20T04:18:10.719806Z" visited="2024-03-20T04:11:24.685805Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-20T04:18:10.719803Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.dwm" added="2024-03-20T07:48:40.869322Z" modified="2024-04-06T09:47:43.036841Z" visited="2024-03-20T07:48:40.869323Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-06T09:47:43.036839Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2024-03-20T07:58:17.362977Z" modified="2024-03-29T23:40:48.754573Z" visited="2024-03-20T07:58:17.362979Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-20T07:58:17.362982Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T23:40:48.754568Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home" added="2024-03-20T07:58:24.506831Z" modified="2024-03-20T07:58:24.506843Z" visited="2024-03-20T07:58:24.506833Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-20T07:58:24.506837Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/zshrc" added="2024-03-20T08:00:59.317210Z" modified="2024-03-20T08:00:59.317228Z" visited="2024-03-20T08:00:59.317213Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-20T08:00:59.317219Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local/share/icons" added="2024-03-20T08:57:21.807783Z" modified="2024-03-20T09:37:22.396452Z" visited="2024-03-20T08:57:21.807785Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-20T09:37:22.396446Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local/share/icons/fontawesome" added="2024-03-20T08:58:59.344525Z" modified="2024-03-20T09:37:23.236260Z" visited="2024-03-20T08:58:59.344527Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-20T09:37:23.236255Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/rainbow-mac-os-x.zip" added="2024-03-20T09:25:58.944871Z" modified="2024-03-20T09:25:58.944884Z" visited="2024-03-20T09:25:58.944873Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-20T09:25:58.944877Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/rainbow-mac" added="2024-03-20T09:26:55.169130Z" modified="2024-03-20T09:26:55.169145Z" visited="2024-03-20T09:26:55.169132Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-20T09:26:55.169138Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local/bin/volume.txt" added="2024-03-20T10:01:25.706943Z" modified="2024-03-20T10:01:25.706961Z" visited="2024-03-20T10:01:25.706946Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-20T10:01:25.706951Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/xfce4/xfconf" added="2024-03-20T10:03:12.342410Z" modified="2024-03-20T10:03:12.342430Z" visited="2024-03-20T10:03:12.342412Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-20T10:03:12.342418Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/xfce4/xfconf/xfce-perchannel-xml" added="2024-03-20T10:03:13.686682Z" modified="2024-03-20T10:03:13.686695Z" visited="2024-03-20T10:03:13.686684Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-20T10:03:13.686688Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml" added="2024-03-20T10:03:16.466241Z" modified="2024-03-20T10:03:39.192504Z" visited="2024-03-20T10:03:16.466243Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-20T10:03:39.192499Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/dwm/dwm/config.def.h" added="2024-03-20T11:39:34.449805Z" modified="2024-03-20T14:29:17.438319Z" visited="2024-03-20T11:39:34.449806Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 68:8;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-20T14:29:17.438315Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/dwm/dwm/dwm.c.rej" added="2024-03-20T12:41:56.972743Z" modified="2024-03-20T15:21:42.564984Z" visited="2024-03-20T12:41:56.972744Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 5:24;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-20T15:21:42.564980Z" count="14"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/panduan.md" added="2024-03-21T00:55:54.391300Z" modified="2024-03-29T21:38:17.859589Z" visited="2024-03-21T00:55:54.391302Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-21T00:55:54.391306Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T21:38:17.859579Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/dwm/dwm/config.h" added="2024-03-21T01:58:17.482152Z" modified="2024-03-23T04:18:48.473917Z" visited="2024-03-21T01:58:17.482153Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-23T04:18:48.473909Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local/share/vlc" added="2024-03-21T03:28:37.297088Z" modified="2024-03-21T03:28:37.297091Z" visited="2024-03-21T03:28:37.297088Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T03:28:37.297089Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local/share/vlc/Skins2" added="2024-03-21T03:29:10.177353Z" modified="2024-03-21T03:29:10.177359Z" visited="2024-03-21T03:29:10.177354Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T03:29:10.177356Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local/share/vlc/Skins" added="2024-03-21T03:32:45.761530Z" modified="2024-03-21T03:34:15.474245Z" visited="2024-03-21T03:32:45.761531Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T03:34:15.474242Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local/share/vlc/Skins/HindWhiteSurDark.zip" added="2024-03-21T03:33:00.977947Z" modified="2024-03-21T03:33:00.977954Z" visited="2024-03-21T03:33:00.977948Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T03:33:00.977950Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local/share/vlc/Skins/HindWhiteSurDark" added="2024-03-21T03:33:16.241215Z" modified="2024-03-21T03:34:09.641842Z" visited="2024-03-21T03:33:16.241216Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T03:34:09.641839Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local/share/vlc/Skins/HindWhiteSurDark/HindWhiteSurDark" added="2024-03-21T03:33:23.825508Z" modified="2024-03-21T03:33:23.825515Z" visited="2024-03-21T03:33:23.825509Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T03:33:23.825511Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local/share/vlc/Skins/HindWhiteSurDark/HindWhiteSurDark/HindWhiteSurDark" added="2024-03-21T03:33:25.297509Z" modified="2024-03-21T03:33:25.297515Z" visited="2024-03-21T03:33:25.297510Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T03:33:25.297511Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local/share/vlc/Skins/HindWhiteSurDark/2-How%20to%20Install.png" added="2024-03-21T03:33:57.892192Z" modified="2024-03-21T03:33:57.892195Z" visited="2024-03-21T03:33:57.892193Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T03:33:57.892194Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Music" added="2024-03-21T03:41:13.133060Z" modified="2024-03-29T21:44:57.134185Z" visited="2024-03-21T03:41:13.133062Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T21:44:57.134183Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Public" added="2024-03-21T03:41:53.965756Z" modified="2024-03-21T03:41:53.965762Z" visited="2024-03-21T03:41:53.965757Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T03:41:53.965759Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.moc" added="2024-03-21T04:15:26.687504Z" modified="2024-03-21T04:18:49.608204Z" visited="2024-03-21T04:15:26.687506Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T04:18:49.608199Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.moc/pid" added="2024-03-21T04:18:09.137558Z" modified="2024-03-21T04:18:09.137576Z" visited="2024-03-21T04:18:09.137560Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T04:18:09.137567Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.moc/socket2" added="2024-03-21T04:18:19.461162Z" modified="2024-03-21T04:18:19.461174Z" visited="2024-03-21T04:18:19.461163Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/socket"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T04:18:19.461167Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.moc/themes" added="2024-03-21T04:19:19.792156Z" modified="2024-03-21T04:19:35.927740Z" visited="2024-03-21T04:19:19.792158Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T04:19:35.927732Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Documents" added="2024-03-21T05:02:58.067279Z" modified="2024-03-23T02:24:02.313094Z" visited="2024-03-21T05:02:58.067281Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T02:24:02.313092Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Pictures/2024-03-21_11-49.png" added="2024-03-21T05:03:10.535835Z" modified="2024-03-21T05:03:10.535861Z" visited="2024-03-21T05:03:10.535843Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T05:03:10.535849Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Pictures/pxfuel.jpg" added="2024-03-21T05:03:18.975226Z" modified="2024-03-21T05:03:18.975239Z" visited="2024-03-21T05:03:18.975228Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T05:03:18.975232Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Pictures/i3.jpg" added="2024-03-21T05:03:22.831590Z" modified="2024-03-21T05:41:04.660166Z" visited="2024-03-21T05:03:22.831594Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T05:41:04.660161Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Videos" added="2024-03-21T05:03:40.355224Z" modified="2024-03-21T05:03:40.355242Z" visited="2024-03-21T05:03:40.355226Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T05:03:40.355233Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/Mainte-3.0.zip" added="2024-03-21T05:40:41.829591Z" modified="2024-03-21T05:40:41.829602Z" visited="2024-03-21T05:40:41.829593Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T05:40:41.829596Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky" added="2024-03-21T05:41:17.979982Z" modified="2024-03-23T02:24:13.681507Z" visited="2024-03-21T05:41:17.979984Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T02:24:13.681505Z" count="15"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte" added="2024-03-21T05:44:52.159673Z" modified="2024-03-23T02:24:15.388560Z" visited="2024-03-21T05:44:52.159674Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T02:24:15.388558Z" count="23"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-21T11:33:14.718724Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/Mainte" added="2024-03-21T05:45:16.783495Z" modified="2024-03-21T11:32:21.191269Z" visited="2024-03-21T05:45:16.783497Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T11:32:21.191267Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/Mainte/conkyrc-dark-bg" added="2024-03-21T05:46:22.443157Z" modified="2024-03-21T07:33:02.893564Z" visited="2024-03-21T05:46:22.443160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T07:33:02.893553Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/Mainte/conky-launch.sh" added="2024-03-21T05:46:46.507041Z" modified="2024-03-21T05:52:28.647493Z" visited="2024-03-21T05:46:46.507043Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 7:45;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T05:52:21.779240Z" count="2"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-21T05:52:28.647489Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/Mainte/bg.xcf" added="2024-03-21T05:48:26.563031Z" modified="2024-03-21T05:48:26.563042Z" visited="2024-03-21T05:48:26.563033Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/x-xcf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T05:48:26.563036Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/Mainte/conkyrc-dark-bspwm" added="2024-03-21T05:49:43.514687Z" modified="2024-03-21T07:33:05.302735Z" visited="2024-03-21T05:49:43.514689Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T07:33:05.302729Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte-3.0" added="2024-03-21T05:53:08.984851Z" modified="2024-03-21T06:38:10.654195Z" visited="2024-03-21T05:53:08.984852Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T06:38:10.654191Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/fonts" added="2024-03-21T05:54:45.393054Z" modified="2024-03-21T05:56:41.105457Z" visited="2024-03-21T05:54:45.393056Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T05:56:41.105452Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.fonts" added="2024-03-21T05:56:48.161656Z" modified="2024-03-23T13:41:24.940418Z" visited="2024-03-21T05:56:48.161658Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:41:24.940415Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/conkyrc" added="2024-03-21T06:23:45.583310Z" modified="2024-03-21T06:23:45.583324Z" visited="2024-03-21T06:23:45.583315Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T06:23:45.583319Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/conky" added="2024-03-21T06:30:23.756742Z" modified="2024-03-21T06:30:23.756760Z" visited="2024-03-21T06:30:23.756744Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T06:30:23.756750Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/conky/conky.conf" added="2024-03-21T06:30:26.726622Z" modified="2024-03-21T06:30:26.726629Z" visited="2024-03-21T06:30:26.726623Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T06:30:26.726627Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte-3.0.zip" added="2024-03-21T06:33:50.312156Z" modified="2024-03-21T06:33:50.312168Z" visited="2024-03-21T06:33:50.312158Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T06:33:50.312161Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/bg.png" added="2024-03-21T06:38:27.303317Z" modified="2024-03-21T06:38:27.303328Z" visited="2024-03-21T06:38:27.303319Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T06:38:27.303323Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/conkyrc-dark-bg" added="2024-03-21T06:39:37.026571Z" modified="2024-03-22T08:15:09.215148Z" visited="2024-03-21T06:39:37.026574Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T06:39:37.026580Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-22T08:15:09.215145Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/conkyrc-dark-bspwm" added="2024-03-21T06:40:07.160522Z" modified="2024-03-22T03:40:47.852827Z" visited="2024-03-21T06:40:07.160524Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-22T03:40:47.852826Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/TeejeeTech" added="2024-03-21T07:31:37.540884Z" modified="2024-03-21T08:00:31.777908Z" visited="2024-03-21T07:31:37.540886Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T08:00:31.777904Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/.themepacks" added="2024-03-21T07:31:49.095026Z" modified="2024-03-21T07:31:49.095037Z" visited="2024-03-21T07:31:49.095028Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T07:31:49.095031Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Green%20Apple%20Desktop" added="2024-03-21T07:32:23.310899Z" modified="2024-03-22T03:29:52.777208Z" visited="2024-03-21T07:32:23.310900Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-22T03:29:52.777206Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Green%20Apple%20Desktop/Gotham" added="2024-03-21T07:32:24.920804Z" modified="2024-03-22T03:18:43.187787Z" visited="2024-03-21T07:32:24.920806Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-22T03:18:43.187785Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Gotham" added="2024-03-21T08:00:20.913045Z" modified="2024-03-22T03:25:45.496590Z" visited="2024-03-21T08:00:20.913047Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-22T03:25:45.496587Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Conky%20MIUI" added="2024-03-21T08:00:23.656348Z" modified="2024-03-21T08:00:23.656361Z" visited="2024-03-21T08:00:23.656350Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T08:00:23.656354Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Conky%20Seamod" added="2024-03-21T08:00:25.752073Z" modified="2024-03-22T03:29:59.617591Z" visited="2024-03-21T08:00:25.752076Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-22T03:29:59.617588Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/Mainte-3.0" added="2024-03-21T08:01:05.361105Z" modified="2024-03-21T08:01:15.944045Z" visited="2024-03-21T08:01:05.361107Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T08:01:15.944040Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/Mainte-3.0/Mainte" added="2024-03-21T08:01:06.776735Z" modified="2024-03-21T08:01:06.776748Z" visited="2024-03-21T08:01:06.776737Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T08:01:06.776740Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/Mainte-3.0/fonts" added="2024-03-21T08:01:18.113189Z" modified="2024-03-21T08:01:18.113208Z" visited="2024-03-21T08:01:18.113192Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T08:01:18.113198Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/mainte-conky.conf" added="2024-03-21T08:02:43.559915Z" modified="2024-03-21T08:02:43.559934Z" visited="2024-03-21T08:02:43.559917Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-21T08:02:43.559924Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/conky-startup.sh" added="2024-03-21T08:02:55.254665Z" modified="2024-03-21T08:04:32.015890Z" visited="2024-03-21T08:02:55.254667Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T08:04:27.166740Z" count="2"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-21T08:04:32.015885Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/conky-launch.sh" added="2024-03-21T08:09:02.550444Z" modified="2024-03-23T02:24:23.642813Z" visited="2024-03-21T08:09:02.550446Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T02:24:23.642812Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Pictures/bc1.jpg" added="2024-03-21T09:07:35.347699Z" modified="2024-03-21T09:07:35.347713Z" visited="2024-03-21T09:07:35.347701Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="microsoft-edge" exec="&apos;microsoft-edge %u&apos;" modified="2024-03-21T09:07:35.347706Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/conkyd" added="2024-03-21T09:36:35.234967Z" modified="2024-03-21T09:39:13.857840Z" visited="2024-03-21T09:36:35.234970Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 17:30;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-21T09:39:13.857833Z" count="2"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-03-21T09:39:10.475632Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte-1" added="2024-03-21T10:54:26.475020Z" modified="2024-03-22T03:27:02.560504Z" visited="2024-03-21T10:54:26.475021Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-22T03:27:02.560502Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Green%20Apple%20Desktop/Green%20Apple%20Desktop.cmtheme" added="2024-03-22T01:59:26.623562Z" modified="2024-03-22T01:59:26.623569Z" visited="2024-03-22T01:59:26.623564Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-22T01:59:26.623566Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Green%20Apple%20Desktop/conky_seamod" added="2024-03-22T01:59:42.692238Z" modified="2024-03-22T04:13:35.271707Z" visited="2024-03-22T01:59:42.692238Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-22T03:29:57.366695Z" count="3"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-22T04:13:35.271704Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/new-conky" added="2024-03-22T02:19:13.999405Z" modified="2024-03-22T03:26:39.575229Z" visited="2024-03-22T02:19:13.999406Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-22T02:19:13.999408Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-22T03:26:39.575226Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Green%20Apple%20Desktop/source.txt" added="2024-03-22T03:03:08.705445Z" modified="2024-03-22T03:03:08.705448Z" visited="2024-03-22T03:03:08.705446Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-22T03:03:08.705447Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/conky_darkbg" added="2024-03-22T03:14:53.999879Z" modified="2024-03-22T04:12:21.823460Z" visited="2024-03-22T03:14:53.999880Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-22T04:12:21.823457Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-22T03:28:27.535723Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/conky_bspwm" added="2024-03-22T03:17:23.788964Z" modified="2024-03-22T08:34:44.175643Z" visited="2024-03-22T03:17:23.788965Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-22T08:34:44.175639Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-22T03:42:26.733272Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Green%20Apple%20Desktop/conky_comb" added="2024-03-22T03:23:58.624748Z" modified="2024-03-22T03:23:58.624754Z" visited="2024-03-22T03:23:58.624749Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-22T03:23:58.624751Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/conk_comb" added="2024-03-22T03:27:39.619823Z" modified="2024-03-22T03:27:39.619830Z" visited="2024-03-22T03:27:39.619824Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-22T03:27:39.619826Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Conky%20Seamod/conky_seamod" added="2024-03-22T03:30:00.972172Z" modified="2024-03-22T03:33:57.216391Z" visited="2024-03-22T03:30:00.972173Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-22T03:33:57.216389Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Gotham/Gotham" added="2024-03-22T04:11:13.046612Z" modified="2024-03-22T04:11:13.046618Z" visited="2024-03-22T04:11:13.046613Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-22T04:11:13.046615Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Green%20Apple%20Desktop/seamod_rings.lua" added="2024-03-22T04:15:31.576508Z" modified="2024-03-22T04:15:31.576514Z" visited="2024-03-22T04:15:31.576509Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-lua"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-22T04:15:31.576511Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/conky_bg1" added="2024-03-22T08:15:53.816371Z" modified="2024-03-22T08:15:53.816377Z" visited="2024-03-22T08:15:53.816372Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-22T08:15:53.816374Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.conky/Mainte/conky_bsp2" added="2024-03-22T09:27:26.190627Z" modified="2024-03-22T09:35:02.926257Z" visited="2024-03-22T09:27:26.190628Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-22T09:35:02.926248Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/Telegram%20Desktop/photo_2024-03-23_08-30-44.jpg" added="2024-03-23T01:46:55.029591Z" modified="2024-03-23T01:46:55.029598Z" visited="2024-03-23T01:46:55.029592Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="microsoft-edge" exec="&apos;microsoft-edge %u&apos;" modified="2024-03-23T01:46:55.029594Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main" added="2024-03-23T03:55:17.096738Z" modified="2024-03-23T15:28:42.613216Z" visited="2024-03-23T03:55:17.096740Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T15:28:42.613215Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/install.sh" added="2024-03-23T03:55:22.178920Z" modified="2024-03-23T12:38:23.338931Z" visited="2024-03-23T03:55:22.178923Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T12:38:23.338926Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/screenshot.png" added="2024-03-23T03:56:20.142926Z" modified="2024-03-23T03:56:20.142942Z" visited="2024-03-23T03:56:20.142929Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T03:56:20.142934Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/ventoy.sh" added="2024-03-23T03:57:10.596247Z" modified="2024-03-23T03:57:10.596264Z" visited="2024-03-23T03:57:10.596250Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T03:57:10.596256Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/assets" added="2024-03-23T03:57:20.653816Z" modified="2024-03-23T14:22:08.287251Z" visited="2024-03-23T03:57:20.653817Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T14:22:08.287249Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/assets/fonts" added="2024-03-23T03:57:24.440111Z" modified="2024-03-23T13:31:28.316319Z" visited="2024-03-23T03:57:24.440113Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:31:28.316315Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/inspiration.png" added="2024-03-23T12:45:52.202867Z" modified="2024-03-23T12:45:52.202878Z" visited="2024-03-23T12:45:52.202869Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T12:45:52.202872Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/ventoy_screenshot.png" added="2024-03-23T12:45:58.513655Z" modified="2024-03-23T12:45:58.513667Z" visited="2024-03-23T12:45:58.513657Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T12:45:58.513661Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/README.md" added="2024-03-23T12:46:12.023229Z" modified="2024-03-23T12:46:12.023241Z" visited="2024-03-23T12:46:12.023231Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T12:46:12.023235Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/assets/fonts/BankGothic.ttf" added="2024-03-23T13:40:56.147951Z" modified="2024-03-23T13:40:56.147955Z" visited="2024-03-23T13:40:56.147952Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:40:56.147953Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/assets/fonts/beckett-regular.ttf" added="2024-03-23T13:41:04.270084Z" modified="2024-03-23T13:41:04.270091Z" visited="2024-03-23T13:41:04.270085Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:41:04.270087Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/assets/fonts/pricedow.ttf" added="2024-03-23T13:41:16.941114Z" modified="2024-03-23T13:41:16.941121Z" visited="2024-03-23T13:41:16.941115Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:41:16.941117Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.fonts/Fantasque%20Sans%20Mono.ttf" added="2024-03-23T13:41:28.974451Z" modified="2024-03-23T13:41:28.974457Z" visited="2024-03-23T13:41:28.974452Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:41:28.974454Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.fonts/FuraCode%20Nerd%20Font.ttf" added="2024-03-23T13:41:35.301701Z" modified="2024-03-23T13:41:35.301707Z" visited="2024-03-23T13:41:35.301702Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:41:35.301704Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/assets/images" added="2024-03-23T13:41:46.787925Z" modified="2024-03-23T13:41:46.787931Z" visited="2024-03-23T13:41:46.787926Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:41:46.787928Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/assets/images/background.png" added="2024-03-23T13:41:48.744441Z" modified="2024-03-23T13:41:48.744447Z" visited="2024-03-23T13:41:48.744442Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:41:48.744444Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/assets/images/blur_background.png" added="2024-03-23T13:41:53.320689Z" modified="2024-03-23T13:41:53.320697Z" visited="2024-03-23T13:41:53.320690Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:41:53.320693Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/assets/menu" added="2024-03-23T13:42:00.410733Z" modified="2024-03-23T13:42:00.410736Z" visited="2024-03-23T13:42:00.410733Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:42:00.410734Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/assets/menu/menu_c.png" added="2024-03-23T13:42:01.685294Z" modified="2024-03-23T13:42:01.685298Z" visited="2024-03-23T13:42:01.685295Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:42:01.685296Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/assets/scrollbar" added="2024-03-23T13:42:06.707337Z" modified="2024-03-23T13:42:06.707343Z" visited="2024-03-23T13:42:06.707338Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:42:06.707339Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/assets/scrollbar/scrollbar_thumb_c.png" added="2024-03-23T13:42:07.680514Z" modified="2024-03-23T13:42:07.680520Z" visited="2024-03-23T13:42:07.680515Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:42:07.680517Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/assets/selection" added="2024-03-23T13:42:12.555706Z" modified="2024-03-23T13:42:12.555711Z" visited="2024-03-23T13:42:12.555706Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:42:12.555708Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/assets/theme.txt" added="2024-03-23T13:42:16.307307Z" modified="2024-03-23T13:42:16.307313Z" visited="2024-03-23T13:42:16.307308Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:42:16.307310Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/dwm-6.5" added="2024-03-23T13:42:50.245629Z" modified="2024-03-23T13:42:50.245635Z" visited="2024-03-23T13:42:50.245630Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:42:50.245632Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/dwm-6.5/config.def.h" added="2024-03-23T13:42:56.842940Z" modified="2024-03-23T13:42:56.842946Z" visited="2024-03-23T13:42:56.842940Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:42:56.842943Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/st" added="2024-03-23T13:47:05.479539Z" modified="2024-03-23T13:47:05.479549Z" visited="2024-03-23T13:47:05.479540Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:47:05.479544Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/st-0.9.1" added="2024-03-23T13:47:56.348603Z" modified="2024-03-23T13:47:56.348610Z" visited="2024-03-23T13:47:56.348604Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:47:56.348606Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/st-0.9.1/config.def.h" added="2024-03-23T13:47:59.612279Z" modified="2024-03-23T13:47:59.612285Z" visited="2024-03-23T13:47:59.612280Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T13:47:59.612282Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg-main/uninstall.sh" added="2024-03-23T14:29:35.686527Z" modified="2024-03-23T14:29:35.686531Z" visited="2024-03-23T14:29:35.686528Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-23T14:29:35.686529Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.oh-my-zsh" added="2024-03-23T14:40:54.368582Z" modified="2024-03-23T14:40:54.368585Z" visited="2024-03-23T14:40:54.368583Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T14:40:54.368584Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.oh-my-zsh/themes" added="2024-03-23T14:40:56.705279Z" modified="2024-03-23T14:40:56.705285Z" visited="2024-03-23T14:40:56.705280Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T14:40:56.705282Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///boot" added="2024-03-23T15:30:25.157405Z" modified="2024-03-23T15:30:25.157408Z" visited="2024-03-23T15:30:25.157406Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T15:30:25.157407Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///boot/grub" added="2024-03-23T15:30:26.317044Z" modified="2024-03-23T15:30:26.317047Z" visited="2024-03-23T15:30:26.317044Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T15:30:26.317045Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///boot/grub/themes" added="2024-03-23T15:30:27.988868Z" modified="2024-03-23T15:30:27.988871Z" visited="2024-03-23T15:30:27.988869Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T15:30:27.988869Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/grub_gtg" added="2024-03-23T15:30:57.110037Z" modified="2024-03-23T15:38:36.592651Z" visited="2024-03-23T15:30:57.110038Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T15:38:36.592649Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///boot/grub/themes/grub_gtg" added="2024-03-23T15:38:50.152923Z" modified="2024-03-23T15:38:50.152929Z" visited="2024-03-23T15:38:50.152924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-23T15:38:50.152926Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.suckless" added="2024-03-29T17:53:52.298170Z" modified="2024-03-29T17:53:52.298173Z" visited="2024-03-29T17:53:52.298171Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T17:53:52.298172Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.suckless/dwm" added="2024-03-29T17:53:53.520544Z" modified="2024-03-29T17:53:53.520552Z" visited="2024-03-29T17:53:53.520545Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T17:53:53.520547Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.suckless/dwm/config.h" added="2024-03-29T17:54:00.764522Z" modified="2024-03-29T17:54:00.764528Z" visited="2024-03-29T17:54:00.764523Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T17:54:00.764525Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles-ruzty" added="2024-03-29T20:35:41.094448Z" modified="2024-03-29T20:35:41.094460Z" visited="2024-03-29T20:35:41.094449Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T20:35:41.094453Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles-ruzty/.config" added="2024-03-29T20:35:42.390298Z" modified="2024-03-29T20:35:42.390310Z" visited="2024-03-29T20:35:42.390300Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T20:35:42.390303Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles-ruzty/.config/nnn" added="2024-03-29T20:35:49.758465Z" modified="2024-03-29T20:35:49.758477Z" visited="2024-03-29T20:35:49.758467Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T20:35:49.758470Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/nnn" added="2024-03-29T20:36:05.126316Z" modified="2024-03-29T20:36:05.126328Z" visited="2024-03-29T20:36:05.126318Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T20:36:05.126321Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/nnn/plugins" added="2024-03-29T20:36:15.398672Z" modified="2024-03-29T20:36:15.398691Z" visited="2024-03-29T20:36:15.398674Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T20:36:15.398680Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles-ruzty/.config/fontconfig" added="2024-03-29T20:36:30.990771Z" modified="2024-03-29T20:36:30.990783Z" visited="2024-03-29T20:36:30.990773Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T20:36:30.990776Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dotfiles-ruzty/.config/alacritty" added="2024-03-29T20:36:36.638939Z" modified="2024-03-29T20:36:36.638951Z" visited="2024-03-29T20:36:36.638941Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T20:36:36.638944Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/zathura" added="2024-03-29T20:42:21.823927Z" modified="2024-03-29T20:42:21.823939Z" visited="2024-03-29T20:42:21.823929Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T20:42:21.823932Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/nvim" added="2024-03-29T20:58:22.710811Z" modified="2024-03-29T22:15:58.131824Z" visited="2024-03-29T20:58:22.710812Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T22:15:58.131821Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/nvim/plugin" added="2024-03-29T20:58:26.605814Z" modified="2024-03-29T22:15:59.314392Z" visited="2024-03-29T20:58:26.605815Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T22:15:59.314390Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/nvim/after" added="2024-03-29T20:59:24.582124Z" modified="2024-03-29T20:59:24.582130Z" visited="2024-03-29T20:59:24.582125Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T20:59:24.582127Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/nvim/after/plugin" added="2024-03-29T20:59:25.326459Z" modified="2024-03-29T20:59:25.326467Z" visited="2024-03-29T20:59:25.326460Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T20:59:25.326462Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/ncmpcpp" added="2024-03-29T21:44:33.248776Z" modified="2024-03-29T21:44:33.248780Z" visited="2024-03-29T21:44:33.248776Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T21:44:33.248777Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/ncmpcpp/config" added="2024-03-29T21:44:36.437879Z" modified="2024-03-29T21:53:54.262003Z" visited="2024-03-29T21:44:36.437880Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T21:53:54.262001Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/ncmpcpp/bindings" added="2024-03-29T21:45:40.434233Z" modified="2024-03-29T21:53:53.182634Z" visited="2024-03-29T21:45:40.434234Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T21:53:53.182633Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.vimrc" added="2024-03-29T22:16:48.840838Z" modified="2024-03-29T22:16:48.840846Z" visited="2024-03-29T22:16:48.840840Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T22:16:48.840841Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.vim" added="2024-03-29T22:19:45.987415Z" modified="2024-03-29T22:19:45.987419Z" visited="2024-03-29T22:19:45.987416Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T22:19:45.987417Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.vim/pack" added="2024-03-29T22:19:47.491052Z" modified="2024-03-29T22:19:47.491057Z" visited="2024-03-29T22:19:47.491053Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T22:19:47.491054Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.vim/pack/plugins" added="2024-03-29T22:19:48.258763Z" modified="2024-03-29T22:19:48.258768Z" visited="2024-03-29T22:19:48.258764Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T22:19:48.258765Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.vim/pack/plugins/start" added="2024-03-29T22:19:49.074842Z" modified="2024-03-29T22:19:49.074846Z" visited="2024-03-29T22:19:49.074843Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T22:19:49.074844Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.vim/pack/plugins/start/vimwiki" added="2024-03-29T22:19:50.715102Z" modified="2024-03-29T22:19:50.715108Z" visited="2024-03-29T22:19:50.715103Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-29T22:19:50.715105Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/yay" added="2024-03-30T16:01:25.358535Z" modified="2024-03-30T16:01:25.358540Z" visited="2024-03-30T16:01:25.358536Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-30T16:01:25.358537Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/paru" added="2024-03-30T16:01:31.902535Z" modified="2024-03-30T16:02:01.053549Z" visited="2024-03-30T16:01:31.902536Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-30T16:02:01.053547Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/paru" added="2024-03-30T16:01:45.990009Z" modified="2024-03-30T16:02:19.886822Z" visited="2024-03-30T16:01:45.990010Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-30T16:02:19.886820Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/alacritty" added="2024-03-31T06:07:31.647537Z" modified="2024-03-31T06:07:31.647543Z" visited="2024-03-31T06:07:31.647538Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-31T06:07:31.647539Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/alacritty/old-from-dotfiles" added="2024-03-31T06:07:53.476430Z" modified="2024-03-31T06:07:53.476447Z" visited="2024-03-31T06:07:53.476432Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-31T06:07:53.476437Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="trash:///" added="2024-03-31T06:22:28.955773Z" modified="2024-03-31T08:25:53.671802Z" visited="2024-03-31T06:22:28.955775Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-31T08:25:53.671798Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/code" added="2024-03-31T06:41:11.521253Z" modified="2024-03-31T06:41:11.521266Z" visited="2024-03-31T06:41:11.521255Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T06:41:11.521260Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/plugin.jpl" added="2024-03-31T07:15:56.968890Z" modified="2024-03-31T07:36:30.438980Z" visited="2024-03-31T07:15:56.968891Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T07:36:30.438973Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/Joplin" added="2024-03-31T07:16:19.434025Z" modified="2024-03-31T17:30:22.839081Z" visited="2024-03-31T07:16:19.434027Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-31T17:30:22.839074Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/Joplin/plugin" added="2024-03-31T07:16:40.664338Z" modified="2024-03-31T07:16:40.664351Z" visited="2024-03-31T07:16:40.664340Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-31T07:16:40.664344Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/plugin%20(1).jpl" added="2024-03-31T07:26:41.460115Z" modified="2024-03-31T07:36:35.600435Z" visited="2024-03-31T07:26:41.460117Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T07:36:35.600428Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/plugin%20(2).jpl" added="2024-03-31T07:36:40.909532Z" modified="2024-03-31T07:36:40.909549Z" visited="2024-03-31T07:36:40.909535Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T07:36:40.909540Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/plugin%20(3).jpl" added="2024-03-31T07:36:45.976507Z" modified="2024-03-31T07:36:51.080819Z" visited="2024-03-31T07:36:45.976510Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T07:36:51.080813Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/plugin%20(4).jpl" added="2024-03-31T07:36:56.529019Z" modified="2024-03-31T07:36:56.529032Z" visited="2024-03-31T07:36:56.529021Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T07:36:56.529025Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/plugin%20(5).jpl" added="2024-03-31T07:37:02.205065Z" modified="2024-03-31T07:37:02.205077Z" visited="2024-03-31T07:37:02.205066Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T07:37:02.205070Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/plugin%20(6).jpl" added="2024-03-31T07:37:07.387207Z" modified="2024-03-31T07:37:07.387220Z" visited="2024-03-31T07:37:07.387209Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T07:37:07.387213Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/plugin%20(7).jpl" added="2024-03-31T07:37:13.571164Z" modified="2024-03-31T07:37:13.571177Z" visited="2024-03-31T07:37:13.571166Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T07:37:13.571170Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/plugin%20(8).jpl" added="2024-03-31T07:37:19.105822Z" modified="2024-03-31T07:37:19.105833Z" visited="2024-03-31T07:37:19.105823Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T07:37:19.105827Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/plugin%20(9).jpl" added="2024-03-31T07:37:24.479324Z" modified="2024-03-31T07:37:24.479337Z" visited="2024-03-31T07:37:24.479326Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T07:37:24.479331Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/plugin%20(10).jpl" added="2024-03-31T07:37:29.780262Z" modified="2024-03-31T07:37:29.780274Z" visited="2024-03-31T07:37:29.780264Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T07:37:29.780268Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/plugin%20(11).jpl" added="2024-03-31T07:37:35.504191Z" modified="2024-03-31T07:37:35.504208Z" visited="2024-03-31T07:37:35.504193Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T07:37:35.504199Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/plugin%20(12).jpl" added="2024-03-31T07:37:43.156893Z" modified="2024-03-31T07:37:43.156906Z" visited="2024-03-31T07:37:43.156895Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T07:37:43.156899Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/plugin%20(13).jpl" added="2024-03-31T07:37:51.077525Z" modified="2024-03-31T07:37:51.077538Z" visited="2024-03-31T07:37:51.077527Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T07:37:51.077531Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/plugin%20(14).jpl" added="2024-03-31T07:37:56.994921Z" modified="2024-03-31T07:37:56.994934Z" visited="2024-03-31T07:37:56.994923Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T07:37:56.994927Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/plugin%20(15).jpl" added="2024-03-31T07:38:01.206233Z" modified="2024-03-31T07:38:01.206246Z" visited="2024-03-31T07:38:01.206235Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T07:38:01.206239Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/plugin%20(16).jpl" added="2024-03-31T07:38:07.157126Z" modified="2024-03-31T07:38:07.157140Z" visited="2024-03-31T07:38:07.157128Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T07:38:07.157133Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/plugin%20(17).jpl" added="2024-03-31T07:38:11.215066Z" modified="2024-03-31T07:38:11.215079Z" visited="2024-03-31T07:38:11.215068Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="@joplinapp-desktop" exec="&apos;@joplinapp-desktop %u&apos;" modified="2024-03-31T07:38:11.215072Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Downloads/LICENSE.txt" added="2024-03-31T16:47:49.016909Z" modified="2024-03-31T16:47:49.016920Z" visited="2024-03-31T16:47:49.016910Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-31T16:47:49.016914Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/joplin-desktop" added="2024-03-31T17:30:26.519637Z" modified="2024-03-31T17:30:26.519649Z" visited="2024-03-31T17:30:26.519638Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-31T17:30:26.519642Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.config/notion-app" added="2024-03-31T17:30:36.432332Z" modified="2024-03-31T17:30:36.432343Z" visited="2024-03-31T17:30:36.432334Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-03-31T17:30:36.432337Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.suckless/dwm/patches/dwm-systray-20230922-9f88553.diff" added="2024-03-31T18:49:37.574289Z" modified="2024-03-31T18:49:37.574304Z" visited="2024-03-31T18:49:37.574291Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="microsoft-edge" exec="&apos;microsoft-edge %u&apos;" modified="2024-03-31T18:49:37.574297Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/dotfiles" added="2024-04-06T09:45:44.588539Z" modified="2024-04-06T09:48:09.612562Z" visited="2024-04-06T09:45:44.588540Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-06T09:48:09.612559Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/dotfiles/home" added="2024-04-06T09:45:55.610912Z" modified="2024-04-06T09:45:55.610915Z" visited="2024-04-06T09:45:55.610912Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-06T09:45:55.610913Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/ParamSpider" added="2024-04-06T09:46:06.263526Z" modified="2024-04-06T09:46:06.263532Z" visited="2024-04-06T09:46:06.263527Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-06T09:46:06.263529Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/dtos" added="2024-04-06T09:46:36.860281Z" modified="2024-04-06T09:46:36.860288Z" visited="2024-04-06T09:46:36.860282Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-06T09:46:36.860284Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/dotfiles/sources" added="2024-04-06T09:47:12.972267Z" modified="2024-04-06T09:47:12.972272Z" visited="2024-04-06T09:47:12.972268Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-06T09:47:12.972269Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Sources/yay" added="2024-04-06T09:47:17.987761Z" modified="2024-04-06T09:47:17.987766Z" visited="2024-04-06T09:47:17.987762Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-06T09:47:17.987763Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/Git-Tools" added="2024-04-06T09:47:31.708275Z" modified="2024-04-06T09:47:31.708284Z" visited="2024-04-06T09:47:31.708277Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-06T09:47:31.708279Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/7n8/.local/lib" added="2024-04-06T09:47:55.739947Z" modified="2024-04-06T09:47:55.739952Z" visited="2024-04-06T09:47:55.739947Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-06T09:47:55.739949Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

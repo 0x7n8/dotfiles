@@ -1,0 +1,166 @@
+# sxhkd stuff
+
+# dmonitor script
+XF86Display
+    ~/myfiles/scripts/dmonitor-select
+
+# main terminal in current folder
+super + shift + Return
+    alacritty --working-directory $(xcwd)
+
+# alternate terminal
+# super + ctrl + Return
+#     st
+
+# run dmenu
+# NOTE: moved to wm bindings
+# super + d
+#     dmenu_run
+
+# launch rofi launcher
+super + shift + d
+    ~/.config/rofi/launchers/colorful/launcher.sh
+
+# brightness controls
+XF86MonBrightness{Up,Down}
+    sudo xbacklight {-inc,-dec} 5 && ~/myfiles/scripts/notify-progress brightness
+
+# does not work
+# runs the script that copies the url in current brave window and opens it in an incognito window
+super + bar
+	~/myfiles/scripts/url2private
+
+# shutdown
+super + shift + x
+    ~/myfiles/scripts/doff
+
+# reload sxhkd
+super + alt + r
+    pkill -USR1 sxhkd
+
+super + F1
+    pcmanfm
+
+super + shift + F1
+    pcmanfm "`xcwd`"
+
+super + q
+    ~/myfiles/scripts/qbrofi
+
+super + F12
+    ~/myfiles/scripts/run-menu
+
+# ocr script
+super + shift + o
+    ~/myfiles/scripts/ocr-script &> /tmp/ocr-file.log
+
+# play/pause mpd using mpc
+super + shift + p
+    ~/myfiles/scripts/mpdplaypause
+
+# play/pause media
+super + ctrl + space
+    playerctl --player=spotify,mpv play-pause
+
+# toggle youtube playback
+super + shift + y
+    playerctl --player=chromium play-pause
+
+# next/prev song
+super + {F2,F3}
+    playerctl --player=spotify,mpd {previous,next}
+
+# launch cava TODO: set up size and position
+super + shift + F11
+    st --title cava-f -e cava
+
+# TODO: launch rofi
+# if it needed in dwm
+
+# dmoji
+super + period
+    emoji-picker
+    # ~/myfiles/scripts/dmoji
+
+# drecord
+super + F7
+    ~/myfiles/scripts/drecord
+
+# dclipboard
+super + y
+    ~/myfiles/scripts/dclipboard
+
+# gnome-pomodoro - in dwm config
+
+# toggle picom
+super + c
+    ~/myfiles/scripts/toggle-picom.sh
+
+# launch blueman-applet # replaced by toggleq script
+# super + shift + b
+#     blueman-applet
+
+# launch emacs
+super + shift + e
+    emacs
+
+# lock the screen
+super + x
+    betterlockscreen -l
+
+# incognito mode - browser
+super + ctrl + b
+    brave --incognito
+
+super + alt + b
+    brave
+
+## volume controls
+XF86Audio{Raise,Lower}Volume
+    pamixer --allow-boost {-i,-d} 5 && ~/myfiles/scripts/notify-progress audio
+
+XF86AudioMute
+    pamixer -t && ~/myfiles/scripts/notify-progress muted
+
+XF86AudioMicMute
+    pactl set-source-mute @DEFAULT_SOURCE@ toggle
+
+## screenshots
+Print
+    flameshot gui
+
+## delay and then take screenshot
+shift + Print
+    flameshot gui -d 2000
+
+# full screenshot
+ctrl + Print
+    flameshot full -c -p ~/Downloads/screenshots
+
+# check window list using rofi
+super + o
+    rofi -show window
+
+# pcmanfm in current dir
+super + shift + F10
+    pcmanfm "`xcwd`"
+
+# change keyboard layout
+super + F11
+    ~/myfiles/scripts/extra-symbols
+
+# skip hw question
+super + shift + period
+    ~/myfiles/scripts/skip_q
+
+# toggle bluetooth applet
+super + shift + b
+    ~/myfiles/scripts/toggleq blueman-applet
+
+# dpcmanfm script - select filepath using rofi and open in file manager
+super + shift + f
+    ~/myfiles/scripts/dpcmanfm
+
+# toggle rofi-menu
+super + i
+    ~/myfiles/scripts/rofi-menu

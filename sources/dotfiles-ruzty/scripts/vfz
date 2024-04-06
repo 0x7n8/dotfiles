@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# update: replaced `find` with `ripgrep`
+
+FILE=$(rg --files --hidden | fzf --preview="bat {}" --bind="ctrl-space:toggle-preview" --preview-window=:hidden)
+[[ -z "$FILE" ]] || vim "$FILE"

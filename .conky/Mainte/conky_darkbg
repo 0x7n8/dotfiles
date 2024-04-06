@@ -1,0 +1,42 @@
+background no # latar belakang
+update_interval 4 # interval waktu
+
+cpu_avg_samples 2 # rata-rata sampel cpu
+net_avg_samples 2 # rata-rata sampel jaringan
+temperature_unit celsius # satuan suhu
+
+double_buffer yes # buffer ganda
+no_buffers yes # tanpa buffer
+text_buffer_size 2048 # ukuran buffer
+override_utf8_locale yes # pengganti utf8
+use_xft yes # gunakan xft
+xftfont 'Fantasque Sans Mono:size=10' # font
+xftalpha 0.5 # transparansi
+uppercase yes # huruf besar
+
+gap_x 1590 # jarak dari kiri
+gap_y 10 # jarak dari atas (semakin kecil semakin jauh ke atas)
+minimum_size 1024 1020 # batas minimum lebar x tinggi
+maximum_width 1024 # batas maksimum lebar
+
+own_window yes # jendela sendiri
+own_window_type override # tipe jendela
+own_window_transparent yes # transparansi
+own_window_argb_visual yes # visual argb
+own_window_argb_value 255 # transparansi
+own_window_colour '#000'
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager # hint jendela
+
+border_inner_margin 0 # jarak dalam
+border_outer_margin 0 # jarak luar
+alignment middle_left # posisi
+
+draw_shades no # bayangan
+draw_outline no # garis luar
+draw_borders no # garis
+draw_graph_borders yes # garis grafik
+
+# Bagian teks Conky
+TEXT
+${offset 1000}${image ~/.conky/Mainte/bg.png -s 340x969} # gambar latar belakang lebar x tinggi
+
