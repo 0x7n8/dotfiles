@@ -1,0 +1,120 @@
+background no
+update_interval 4
+
+cpu_avg_samples 2
+net_avg_samples 2
+temperature_unit celsius
+
+double_buffer yes
+no_buffers yes
+text_buffer_size 2048
+override_utf8_locale yes
+use_xft yes
+xftfont 'FuraCode Nerd Font:pixelsize=18'
+xftalpha 0.5
+uppercase yes
+
+gap_x 1310
+gap_y 0
+minimum_size 1024 920
+maximum_width 1024
+
+own_window yes
+own_window_type override
+own_window_transparent yes
+own_window_argb_visual yes
+own_window_argb_value 255
+own_window_colour 000000
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+
+border_inner_margin 0
+border_outer_margin 0
+alignment middle_left 
+
+draw_shades no
+draw_outline no
+draw_borders no
+draw_graph_borders yes
+
+TEXT
+## Atur variabel yang digunakan secara berulang
+${font FuraCode Nerd Font:pixelsize=12}
+${color #BEC8CB}
+${alignr}
+${offset -10}  # Mengatur offset menjadi 0 agar teks lebih rata
+
+# Header
+#-------------------------------- *copas ini "─"
+#──────── ${nodename} ──────── 
+─── ${uid_name 1000} ────
+${exec lsb_release -ds | sed 's/"//g'} Distro ───────────────────────────
+${kernel} Kernel 
+${uptime_short} Uptime 
+${voffset 15}  # Menambahkan jarak 10 piksel ke bawah
+
+
+# GPU Info
+${exec lspci | grep VGA | sed 's/00:02.0 VGA compatible controller: //g' | sed 's/ Corporation//g' | sed 's/ Integrated Graphics Controller (primary) (rev 0c)//g'} GPU ────────────────
+${exec xdpyinfo | awk '/dimensions/{print $2}'} Res
+${voffset 25}  # Menambahkan jarak 10 piksel ke bawah
+
+
+
+# Locale
+${exec cat /etc/locale.conf |  grep LANG | sed 's/LANG=//g'} Locale ────────────
+${voffset 10}  # Menambahkan jarak 10 piksel ke bawah
+
+# Fan Speed
+${exec sensors | grep fan1 | sed 's/fan1: //g'} Fan Speed ──────────
+${voffset 10}  # Menambahkan jarak 10 piksel ke bawah
+
+# Temperature
+──────── Temperatures ──────── 
+─ Core0 < ${execi 5 sensors|grep 'Core 0'| awk -F'+' '{print $2}' | awk -F'.' '{print $1}'} °C > 
+
+─ Core1 < ${execi 5 sensors|grep 'Core 1'| awk -F'+' '{print $2}' | awk -F'.' '{print $1}'} °C > 
+
+─ Core2 < ${execi 5 sensors|grep 'Core 2'| awk -F'+' '{print $2}' | awk -F'.' '{print $1}'} °C > 
+${voffset 15}  # Menambahkan jarak 10 piksel ke bawah
+
+# Processes
+──────── <${ execi 1000 cat /proc/cpuinfo | grep 'model name' | sed -e 's/model name.*: //' | uniq|cut -c 1-36|sed 'ss/(R)//g'|sed 's/(TM)//g'|sed 's/CPU     //g'} > ──────────
+Processes
+< ${top name 1}  ${top cpu 1} > 
+
+< ${top name 2}  ${top cpu 2} > 
+
+< ${top name 3}  ${top cpu 2} > 
+
+< ${top name 4}  ${top cpu 2} > 
+${voffset 25}  # Menambahkan jarak 10 piksel ke bawah
+
+# RAM
+< $memperc% | $mem/$memmax > RAM ──────────
+${voffset 10}  # Menambahkan jarak 10 piksel ke bawah
+
+# Wireless Info (SSID ganti sesuai dengan nama interface wireless)
+${addr wlp2s0} : ${wireless_essid wlp2s0} : SSID ──────────
+
+UP < ${upspeedgraph wlp2s0 15,130 BCC3C3 BCC3C3} >
+${voffset 7}  # Menambahkan jarak piksel ke bawah
+
+DOWN < ${downspeedgraph wlp2s0 15,130 BCC3C3 BCC3C3} >
+${voffset 15}  # Menambahkan jarak 10 piksel ke bawah
+
+# Battery
+${exec cat /sys/class/power_supply/BAT0/capacity} : Battery ────────────
+
+${exec acpi | grep "Battery 0" | awk '{print $4}'} | ${battery_percent BAT0}% > BAT 0 < ${battery_bar 5,110 BAT0} 
+${voffset 10}  # Menambahkan jarak 10 piksel ke bawah
+
+
+# Disk
+Storage ──────────────────────────────────
+${fs_used_perc}% > Root < ${fs_bar 5,120 /} >
+
+${swapperc}% > Swap < ${swapbar 5,120} >
+${voffset 10}  # Menambahkan jarak 10 piksel ke bawah
+
+
+
